@@ -1,0 +1,23 @@
+﻿@using LakewoodScoopScraper.API;
+@model IEnumerable<Post>
+
+<div class="container">
+    <div class="row">
+        <table class="table table-bordered" style="margin-top: 40px;">
+            <tr>
+                <th>Image</th>
+                <th>Title</th>
+                <th>Text</th>
+            </tr>
+
+            @foreach (Post post in Model)
+            {
+                <tr>
+                    <td><img src="@post.ImageUrl" /></td>
+                    <td><a href="@post.Url">@post.Title</a></td>
+                    <td>@post.Text</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

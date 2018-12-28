@@ -1,0 +1,8 @@
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\bin\Debug\LakewoodScoopScraper.API.dll
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\bin\Debug\LakewoodScoopScraper.API.pdb
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\bin\Debug\AngleSharp.dll
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\bin\Debug\AngleSharp.xml
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\obj\Debug\LakewoodScoopScraper.API.csprojResolveAssemblyReference.cache
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\obj\Debug\LakewoodScoopScraper.API.csproj.CoreCompileInputs.cache
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\obj\Debug\LakewoodScoopScraper.API.dll
+c:\users\tehila\source\repos\LakewoodScoopScraper\LakewoodScoopScraper.API\obj\Debug\LakewoodScoopScraper.API.pdb
